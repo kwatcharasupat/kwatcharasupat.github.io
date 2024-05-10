@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64ce310c-0971-462f-92e7-177431d0c3bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-05-10-spauq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/aac-musdb-rel.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/aac-musdb.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/delaypan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/delaypan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/lpfpan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/lpfpan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/pan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/pan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/snrpan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/snrpan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/2024-05-10-spauq/starss.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2023-fall-musi6201.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2023-fall-musi6201.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2023-spring-musi6202.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2023-spring-musi6202.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +90,7 @@
       <workItem from="1715311201547" duration="431000" />
       <workItem from="1715312274314" duration="188000" />
       <workItem from="1715312484794" duration="1935000" />
-      <workItem from="1715314504417" duration="24018000" />
+      <workItem from="1715314504417" duration="24308000" />
     </task>
     <servers />
   </component>
