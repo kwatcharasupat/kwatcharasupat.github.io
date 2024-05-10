@@ -5,61 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64ce310c-0971-462f-92e7-177431d0c3bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_news/20240419-project-studio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/20240510-web.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_unused_pages/profiles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_bibliography/nonpapers.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_guest_lectures/2023-spring-musi8001.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20230909-aauw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20231002-sps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20231020-ideas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20240222-concert.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20240414-icassp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news/20240518-netflix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_teaching/2023-fall-musi6201.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_teaching/2023-spring-musi6202.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/repositories.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/repositories.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/venues.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/venues.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/resume/education.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/resume/education.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/resume/work.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/resume/work.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/20240510-web.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about_einstein.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/dropdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/profiles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/repositories.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/repositories.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/teaching.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-15-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-disqus-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-math.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-22-distill.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-github-metadata.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-twitter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-07-04-diagrams.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-01-redirect.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-12-10-giscus-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-20-table-of-contents.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-21-tables.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-24-videos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-25-audios.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-25-sidebar-table-of-contents.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-05-12-custom-blockquotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-07-04-jupyter-notebook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-07-12-post-bibliography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-12-12-tikzjax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-26-chartjs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-26-echarts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-26-geojson-map.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-27-advanced-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-27-code-diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-27-vega-lite.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-04-15-pseudocode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-04-28-post-citation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-04-29-typograms.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-05-01-tabs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_unused_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_unused_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_unused_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/resume.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Karn/portfolio/kwatcharasupat.github.io/_news",
+    "last_opened_file_path": "C:/Users/Karn/portfolio/kwatcharasupat.github.io/_teaching",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,9 +82,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_teaching" />
+      <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_pages" />
       <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_news" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_guest_lectures" />
       <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_pages" />
       <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io\_unused_pages" />
       <recent name="C:\Users\Karn\portfolio\kwatcharasupat.github.io" />
@@ -136,7 +106,7 @@
       <workItem from="1715311201547" duration="431000" />
       <workItem from="1715312274314" duration="188000" />
       <workItem from="1715312484794" duration="1935000" />
-      <workItem from="1715314504417" duration="5620000" />
+      <workItem from="1715314504417" duration="17389000" />
     </task>
     <servers />
   </component>

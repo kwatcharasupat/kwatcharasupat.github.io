@@ -6,6 +6,30 @@
   - firstname: ["Yiwei", "Y."]
     url: https://suncerock.github.io/
 
-"satp consortium":
-  - firstname: [""]
+"gan":
+  - firstname: ["Woon Seng", "Woon-Seng", "W.-S.", "W. S."]
+    url: https://www3.ntu.edu.sg/home/ewsgan/
+
+"lam":
+  - firstname: ["Bhan"]
+    url: https://www.linkedin.com/in/lambhan
+
+"consortium":
+  - firstname: ["satp"]
     url: https://www.ucl.ac.uk/global/publications/2022/sep/soundscape-attributes-translation-project-satp
+
+"ooi":
+  - firstname: ["Kenneth"]
+    url: https://www.linkedin.com/in/kenneth-ooi-31919b39
+
+"wu":
+  - firstname: ["Chih-Wei"]
+    url: https://www.linkedin.com/in/chih-wei-wu-73081689/
+
+"orife":
+  - firstname: ["Iroro"]
+    url: https://github.com/ruohoruotsi
+
+"nguyen":
+  - firstname: ["Thi Ngoc Tho"]
+    url: https://sg.linkedin.com/in/nguyen-thi-ngoc-tho-15102012

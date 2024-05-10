@@ -1,200 +1,351 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Karn Watcharasupat",
+    "label": "Music Tech PhD Student @ Georgia Tech",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "United States"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "kwatcharasupat",
+        "url": "https://www.linkedin.com/in/kwatcharasupat/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Georgia Institute of Technology",
+      "position": "PhD Student - Music Informatics Group",
+      "startDate": "2022-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+      "location": "Atlanta, GA"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Georgia Institute of Technology",
+      "position": "Graduate Research Assistant - Music Informatics Group",
+      "startDate": "2023-08-31",
+      "endDate": "2024-05-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Netflix",
+      "position": "Intern - Audio Algorithms ",
+      "startDate": "2023-05-31",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/netflix/",
+      "location": "Los Gatos, CA"
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Graduate Research Assistant - Music Informatics Group",
+      "startDate": "2022-08-31",
+      "endDate": "2023-05-31",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Visiting Student - Music Informatics Group",
+      "startDate": "2020-01-31",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Nanyang Technological University Singapore",
+      "position": "Research Engineer I - Digital Signal Processing Lab & Smart Nation Translational Lab",
+      "startDate": "2022-02-28",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/ntusg/",
+      "location": "Singapore"
+    },
+    {
+      "name": "Nanyang Technological University",
+      "position": "Research Intern (Audio AI) - Digital Signal Processing Lab & Smart Nation Translational Lab",
+      "startDate": "2020-12-31",
+      "endDate": "2022-02-28",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/ntusg/",
+      "location": "Singapore"
+    },
+    {
+      "name": "Nanyang Technological University",
+      "position": "Undergraduate Researcher (Array Blind Source Separation) - Media Technology Lab",
+      "startDate": "2018-12-31",
+      "endDate": "2021-02-28",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/school/ntusg/",
+      "location": "Singapore"
+    },
+    {
+      "name": "AEvice Health",
+      "position": "Software Development Intern",
+      "startDate": "2020-05-31",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/aevice-health/",
+      "location": "Singapore"
+    },
+    {
+      "name": "Band Initiative",
+      "position": "Co-Founder & Executive Committee",
+      "startDate": "2016-06-30",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/band-initiative/",
+      "location": "Singapore"
+    },
+    {
+      "name": "King Mongkut's University of Technology Thonburi",
+      "position": "JSTP Research Student",
+      "startDate": "2012-12-31",
+      "endDate": "2013-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/kmutt/",
+      "location": "Bangkok"
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Georgia Institute of Technology",
+      "area": "Music Technology",
+      "studyType": "Doctor of Philosophy",
+      "location": "Atlanta, GA",
+      "startDate": "2022",
+      "endDate": "2027",
+      "score": "4.00/4.00",
+      "courses": []
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Master of Science",
+      "location": "Atlanta, GA",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "Bachelor of Engineering (Highest Honours)",
+      "location": "Singapore",
+      "startDate": "2018",
+      "endDate": "2021",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Nanyang Junior College",
+      "area": "Science",
+      "studyType": "Singapore-Cambridge GCE Advanced Level",
+      "location": "Singapore",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "AAAA/AA",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "AAUW International Doctoral Degree Fellowship",
+      "date": "2023",
+      "awarder": "American Association of University Women (AAUW)",
+      "summary": ""
+    },
+    {
+      "title": "IEEE Signal Processing Society Scholarship",
+      "date": "2023",
+      "awarder": "IEEE Signal Processing Society",
+      "summary": ""
+    },
+    {
+      "title": "Association of Consulting Engineers Singapore Gold Medal",
+      "date": "2022",
+      "awarder": "Association of Consulting Engineers Singapore",
+      "summary": ""
+    },
+    {
+      "title": "Lee Kuan Yew Gold Medal (Electrical and Electronic Engineering)",
+      "date": "2022",
+      "awarder": "Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List, AY 2020/21",
+      "date": "2021",
+      "awarder": "School of Electrical and Electronic Engineering, Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List, AY 2019/20",
+      "date": "2020",
+      "awarder": "School of Electrical and Electronic Engineering, Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List, AY 2018/19",
+      "date": "2019",
+      "awarder": "School of Electrical and Electronic Engineering, Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "EEE Chair Award",
+      "date": "2018",
+      "awarder": "School of Electrical and Electronic Engineering, Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "CN Yang Scholars Programme with Nanyang Scholarship",
+      "date": "2018",
+      "awarder": "Nanyang Technological University",
+      "summary": ""
+    },
+    {
+      "title": "ASEAN Scholarship for Thailand (Junior College)",
+      "date": "2016",
+      "awarder": "Ministry of Education, Singapore",
+      "summary": ""
+    },
+    {
+      "title": "ASEAN Scholarship for Thailand (Upper Secondary)",
+      "date": "2013",
+      "awarder": "Ministry of Education, Singapore",
+      "summary": ""
+    },
+    {
+      "title": "Junior Science Talent Project Research Scholarship",
+      "date": "2013",
+      "awarder": "National Science and Technology Development Agency, Thailand",
+      "summary": "Relinquished to study in Singapore"
     }
   ],
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2018-12-31",
+      "url": "https://www.coursera.org/account/accomplishments/verify/CEHRWXA52B6W"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Music Theory (Grade 5)",
+      "issuer": "ABRSM",
+      "startDate": "2014-10-31"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Deep Learning Specialization",
+      "issuer": "deeplearning.ai",
+      "startDate": "2019-12-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/3DVUA28H4NPL"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Digital Signal Processing Specialization",
+      "issuer": "EPFL (École polytechnique fédérale de Lausanne)",
+      "startDate": "2020-09-30",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/RQJG7HP577BW"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Natural Language Processing Specialization",
+      "issuer": "deeplearning.ai",
+      "startDate": "2020-09-30",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/S7QPCLWCDMQZ"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "DeepLearning.AI TensorFlow Developer Professional Certificate",
+      "issuer": "deeplearning.ai",
+      "startDate": "2020-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EN8BC6G37P6U"
+    },
+    {
+      "name": " Generative Adversarial Networks (GANs) Specialization",
+      "issuer": "deeplearning.ai",
+      "startDate": "2020-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/NBRUX7KHXALN"
+    },
+    {
+      "name": "Stochastic Processes",
+      "issuer": "National Research University — Higher School of Economics",
+      "startDate": "2020-11-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/QCRWEBMUQ7E4"
+    },
+    {
+      "name": "Practical Data Science Specialization",
+      "issuer": "DeepLearning.AI",
+      "startDate": "2021-08-31",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/24HLAE4ZQHSV"
+    },
+    {
+      "name": "Social and Behavioral Research - Basic/Refresher",
+      "issuer": "CITI Program",
+      "endDate": "2025-02-28",
+      "startDate": "2022-02-28",
+      "url": "https://www.citiprogram.org/verify/?wb7740085-44fa-4eb4-90d1-26fe025ecc9d-47260090"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [  ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Signal Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Music Information Retrieval",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "English"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "Thai"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
