@@ -7,8 +7,10 @@
     <list default="true" id="64ce310c-0971-462f-92e7-177431d0c3bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-05-10-spauq.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-05-10-spauq.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_teaching/2023-fall-musi6201.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2023-fall-musi6201.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_teaching/2023-spring-musi6202.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2023-spring-musi6202.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -90,7 +92,7 @@
       <workItem from="1715311201547" duration="431000" />
       <workItem from="1715312274314" duration="188000" />
       <workItem from="1715312484794" duration="1935000" />
-      <workItem from="1715314504417" duration="24308000" />
+      <workItem from="1715314504417" duration="26202000" />
     </task>
     <servers />
   </component>
