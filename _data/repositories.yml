@@ -1,10 +1,21 @@
 github_users:
   - kwatcharasupat
 
-github_repos:
+featured_repos:
   - kwatcharasupat/bandit
   - kwatcharasupat/spauq
   - kwatcharasupat/latte
   - thomeou/SALSA
+
+
+github_repos:
+  - soundata/soundata
+  - ntudsp/araus-dataset-baseline-models
+  - biboamy/AVASpeech_Music_Labels
   - ntudsp/singapura
   - e13000/directional_sparse_filtering
+  - ntudsp/satp-tha-stage2
+  - ntudsp/satp-zsm-stage2
+  - ntudsp/satp-zsm-stage1
+  - ntudsp/ica22-calibration
+  - ntudsp/douHear

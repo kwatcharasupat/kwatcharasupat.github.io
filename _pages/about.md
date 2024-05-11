@@ -22,3 +22,6 @@ I am an alumna of [Netflix](https://research.netflix.com/)'s Audio Algorithms Te
 Outside of research, I play the euphonium (and other brass instruments). I compose and arrange for wind band once in a while, although you could imagine that there are a lot of unfinished projects on my past and present laptops.
 
 In case you have not noticed, there is a chance that I am actually a cat. That would explain a lot of things...
+
+
+For a formal bio, see [here](/about_formal).
