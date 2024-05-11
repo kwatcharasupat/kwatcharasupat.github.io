@@ -19,7 +19,7 @@
     url: https://www.ucl.ac.uk/global/publications/2022/sep/soundscape-attributes-translation-project-satp
 
 "ooi":
-  - firstname: [ "Kenneth" ]
+  - firstname: [ "Kenneth", "Wen Rui Kenneth" ]
     url: https://www.linkedin.com/in/kenneth-ooi-31919b39
 
 "wu":
@@ -35,5 +35,9 @@
     url: https://sg.linkedin.com/in/nguyen-thi-ngoc-tho-15102012
 
 "khong":
-  - fistname: [ "Andy W. H." ]
+  - fistname: [ "Andy W. H.", "Andy Wai Hoong", "Wai Hoong" ]
     url: https://personal.ntu.edu.sg/andykhong/index.htm
+
+"hung":
+  - firstname: ["Yun-Ning", "Y.-N.", "Amy", "Amy Y.-N."]
+    url: https://biboamy.github.io/

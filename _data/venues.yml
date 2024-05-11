@@ -1,12 +1,40 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
 
 "ICASSP":
-  url: https://signalprocessingsociety.org/event-names/icassp
+  color: "#00369f"
+
+"IEEE OJSP":
+  color: "#0076df"
+
+"IEEE SPL":
+  color: "#0076df"
+
+"IEEE/ACM TASLP":
+  color: "#0076df"
+
+"IEEE TAffC":
+  color: "#0076df"
+
+
+
+"DCASE Tech. Rep.":
+  color: "#ff3636"
+
+"DCASE Workshop":
+  color: "#ff3636"
+
+"ISMIR":
+  color: "#009f06"
+
+"ISMIR LBD":
+  color: "#009f06"
+
+
+"Appl. Acoust.":
+  color: "#b509ac"
+
+"Inter-noise":
+  color: "#b71c1c"
+
+
+"Patent":
+  color: "#212529"
