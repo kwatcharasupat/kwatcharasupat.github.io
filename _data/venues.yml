@@ -1,43 +1,20 @@
-
-"ICASSP":
+"Journal":
   color: "#00369f"
 
-"IEEE OJSP":
-  color: "#0076df"
-
-"IEEE SPL":
-  color: "#0076df"
-
-"IEEE/ACM TASLP":
-  color: "#0076df"
-
-"IEEE TAffC":
-  color: "#0076df"
-
-
-
-"DCASE Tech. Rep.":
-  color: "#ff3636"
-
-"DCASE Workshop":
-  color: "#ff3636"
-
-"ISMIR":
+"Conference":
   color: "#009f06"
 
-"ISMIR LBD":
-  color: "#009f06"
+"Ext. Abstract":
+  color: "#ff3636"
 
-
-"Appl. Acoust.":
-  color: "#b509ac"
-
-"Inter-noise":
+"Tech. Rep.":
   color: "#b71c1c"
 
+"Thesis":
+  color: "#0076df"
 
 "Patent":
-  color: "#212529"
+  color: "#b509ac"
 
 "Preprint":
   color: "#444444"
