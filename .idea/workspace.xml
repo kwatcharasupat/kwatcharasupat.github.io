@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64ce310c-0971-462f-92e7-177431d0c3bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/venues.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/venues.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/bib.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/bib.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,8 @@
       <workItem from="1715314504417" duration="31947000" />
       <workItem from="1715403378898" duration="1266000" />
       <workItem from="1715404752003" duration="8827000" />
-      <workItem from="1715515760329" duration="2268000" />
+      <workItem from="1715515760329" duration="2949000" />
+      <workItem from="1715681843771" duration="1081000" />
     </task>
     <servers />
   </component>
