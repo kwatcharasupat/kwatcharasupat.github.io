@@ -83,6 +83,27 @@
     abstract = {A method for blind source separation for an audio processing system including multiple devices is provided. Each of the devices includes multiple microphones. A measure of dissimilarity between the signal vector sensed by each device and a column of a mixing matrix is computed. The measure of dissimilarity is used to establish an objective function and an optimization algorithm is performed to compute the mixing matrix. Estimates of the original signals are computed according to the mixing matrix and the signal vector without estimating a sampling rate mismatch between the devices. Therefore, compensation of sampling rate mismatch is not required.},
 }
 
+@inproceedings{Watcharasupat2024StemAgnosticSingleDecoderSystem,
+    title = {A Stem-Agnostic Single-Decoder System for Music Source Separation Beyond Four Stems},
+    author = {Watcharasupat, Karn N. and Lerch, Alexander},
+    year = 2024,
+    month = nov,
+    booktitle = {To appear in the Proceedings of the 25th conference of the International Society for Music Information Retrieval},
+    abstract = {Despite significant recent progress across multiple subtasks of audio source separation, few music source separation systems support separation beyond the four-stem vocals, drums, bass, and other (VDBO) setup. Of the very few current systems that support source separation beyond this setup, most continue to rely on an inflexible decoder setup that can only support a fixed pre-defined set of stems. Increasing stem support in these inflexible systems correspondingly requires increasing computational complexity, rendering extensions of these systems computationally infeasible for long-tail instruments. In this work, we propose Banquet, a system that allows source separation of multiple stems using just one decoder. A bandsplit source separation model is extended to work in a query-based setup in tandem with a music instrument recognition PaSST model. On the MoisesDB dataset, Banquet, at only 24.9 M trainable parameters, approached the performance level of the significantly more complex 6-stem Hybrid Transformer Demucs on VDBO stems and outperformed it on guitar and piano. The query-based setup allows for the separation of narrow instrument classes such as clean acoustic guitars, and can be successfully applied to the extraction of less common stems such as reeds and organs.},
+    publisher = {ISMIR},
+    address = {San Francisco, CA, USA},
+    html = {https://ieeexplore.ieee.org/document/10447947},
+    pdf = {https://arxiv.org/pdf/2406.18747},
+    blog = {},
+    code = {https://github.com/karnwatcharasupat/query-bandit},
+    abbr = {Conference},
+    arxiv = {2406.18747},
+    bibtex_show = {true},
+    dimensions = {true},
+    altmetric = {true},
+    google_scholar_id = {-f6ydRqryjwC},
+}
+
 
 @inproceedings{Watcharasupat2024QuantifyingSpatialAudio,
     title = {Quantifying Spatial Audio Quality Impairment},
@@ -583,6 +604,25 @@
     altmetric = {true},
     google_scholar_id = {qjMakFHDy7sC}
 }
+
+@article{Aletta2024SoundscapeDescriptorsEighteena,
+  title = {Soundscape Descriptors in Eighteen Languages: {{Translation}} and Validation through Listening Experiments},
+  shorttitle = {Soundscape Descriptors in Eighteen Languages},
+  author = {Aletta, Francesco and Mitchell, Andrew and Oberman, Tin and Kang, Jian and Khelil, Sara and Bouzir, Tallal Abdel Karim and Berkouk, Djihed and Xie, Hui and Zhang, Yuan and Zhang, Ruining and Yang, Xinhao and Li, Min and Jambro{\v s}i{\'c}, Kristian and Zaninovi{\'c}, Tamara and {van den Bosch}, Kirsten and L{\"u}hr, Tamara and Orlik, Nicolas and Fitzpatrick, Darragh and Sarampalis, Anastasios and Aumond, Pierre and Lavandier, Catherine and Moshona, Cleopatra Christina and Lepa, Steffen and Fiebig, Andr{\'e} and Papadakis, Nikolaos M. and Stavroulakis, Georgios E. and Sudarsono, Anugrah Sabdono and Sarwono, Sugeng Joko and Puglisi, Giuseppina Emma and Jafari, Farid and Astolfi, Arianna and Shtrepi, Louena and Nagahata, Koji and Jo, Hyun In and Jeon, Jin Yong and Lam, Bhan and Chieng, Julia and Ooi, Kenneth and Hong, Joo Young and Monteiro Antunes, S{\'o}nia and Alves, Sonia and {de Ulhoa Carvalho}, Maria Luiza and Michalski, Ranny Loureiro Xavier Nascimento and Kogan, Pablo and Vida Manzano, Jer{\'o}nimo and Garc{\'i}a Quesada, Rafael and Su{\'a}rez Silva, Enrique and Almagro Pastor, Jos{\'e} Antonio and Nilsson, Mats E. and Axelsson, {\"O}sten and Gan, Woon-Seng and Watcharasupat, Karn N. and Jaratjarungkiat, Sureenate and Ong, Zhen-Ting and D{\"o}kmeci Y{\"o}r{\"u}ko{\u g}lu, Papatya Nur and Er{\c c}akmak Osma, U{\u g}ur Beyza and Nguyen, Thu Lan},
+  year = {2024},
+  month = sep,
+  journal = {Applied Acoustics},
+  volume = {224},
+  pages = {110109},
+  issn = {0003-682X},
+  doi = {10.1016/j.apacoust.2024.110109},
+  abstract = {This paper presents the outcomes of the ``Soundscape Attributes Translation Project'' (SATP), an international initiative addressing the critical research gap in soundscape descriptors translations for cross-cultural studies. Focusing on eighteen languages -- namely: Arabic, Chinese, Croatian, Dutch, English, French, German, Greek, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Spanish, Swedish, Turkish, and Vietnamese -- the study employs a four-step procedure to evaluate the reliability and cross-cultural validity of translated soundscape descriptors. The study introduces a three-tier confidence level system (Low, Medium, High) based on ``adjusted angles'', which are a measure proposed to correct the soundscape circumplex model (i.e., the pleasant-eventful space proposed in the ISO 12913 series) of a given language. Results reveal that most languages successfully maintain the quasi-circumplex structure of the original soundscape model, ensuring robust cross-cultural validity. English, Arabic, Chinese (Mandarin), Croatian, Dutch, German, Greek, Indonesian, Italian, Spanish, Swedish, and Turkish achieve a ``High'' confidence level. French, Japanese, Korean, Malay, Portuguese, and Vietnamese demonstrate varying confidence levels, highlighting the importance of the preliminary translation. This research significantly contributes to standardized cross-cultural methodologies in soundscape perception research, emphasizing the pivotal role of adjusted angles within the soundscape circumplex model in ensuring the accuracy of dimensions (i.e., attributes) locations. The SATP initiative offers insights into the complex interplay of language and meaning in the perception of environmental sounds, opening avenues for further cross-cultural soundscape research.}
+    bibtex_show = {true},
+    dimensions = {true},
+    altmetric = {true},
+google_scholar_id={hC7cP41nSMkC}
+}
+
 
 
 @article{Ooi2024LionCitySoundscapes,
