@@ -83,6 +83,28 @@
     abstract = {A method for blind source separation for an audio processing system including multiple devices is provided. Each of the devices includes multiple microphones. A measure of dissimilarity between the signal vector sensed by each device and a column of a mixing matrix is computed. The measure of dissimilarity is used to establish an objective function and an optimization algorithm is performed to compute the mixing matrix. Estimates of the original signals are computed according to the mixing matrix and the signal vector without estimating a sampling rate mismatch between the devices. Therefore, compensation of sampling rate mismatch is not required.},
 }
 
+
+@inproceedings{Watcharasupat2024RemasteringDivideRemaster,
+    title = {Remastering Divide and Remaster: A Cinematic Audio Source Separation Dataset with Multilingual Support},
+    author = {Watcharasupat, Karn N. and Wu, Chih-Wei and Orife, Iroro},
+    year = 2024,
+    month = sep,
+    booktitle = {To appear in the Proceedings of the 5th IEEE International Symposium on the Internet of Sounds},
+    abstract = {Cinematic audio source separation (CASS), as a problem of extracting the dialogue, music, and effects stems from their mixture, is a relatively new subtask of audio source separation. To date, only one publicly available dataset exists for CASS, that is, the Divide and Remaster (DnR) dataset, which is currently at version 2. While DnR v2 has been an incredibly useful resource for CASS, several areas of improvement have been identified, particularly through its use in the 2023 Sound Demixing Challenge. In this work, we develop version 3 of the DnR dataset, addressing issues relating to vocal content in non-dialogue stems, loudness distributions, mastering process, and linguistic diversity. In particular, the dialogue stem of DnR v3 includes speech content from more than 30 languages from multiple families including but not limited to the Germanic, Romance, Indo-Aryan, Dravidian, Malayo-Polynesian, and Bantu families. Benchmark results using the Bandit model indicated that training on multilingual data yields significant generalizability to the model even in languages with low data availability. Even in languages with high data availability, the multilingual model often performs on par or better than dedicated models trained on monolingual CASS datasets.},
+    publisher = {IEEE},
+    address = {Erlangen, Germany},
+    html = {},
+    pdf = {https://arxiv.org/abs/2407.07275},
+    blog = {},
+    code = {https://github.com/kwatcharasupat/source-separation-landing},
+    abbr = {Conference},
+    arxiv = {2406.18747},
+    bibtex_show = {true},
+    dimensions = {true},
+    altmetric = {true},
+    google_scholar_id = {mB3voiENLucC},
+}
+
 @inproceedings{Watcharasupat2024StemAgnosticSingleDecoderSystem,
     title = {A Stem-Agnostic Single-Decoder System for Music Source Separation Beyond Four Stems},
     author = {Watcharasupat, Karn N. and Lerch, Alexander},
@@ -92,7 +114,7 @@
     abstract = {Despite significant recent progress across multiple subtasks of audio source separation, few music source separation systems support separation beyond the four-stem vocals, drums, bass, and other (VDBO) setup. Of the very few current systems that support source separation beyond this setup, most continue to rely on an inflexible decoder setup that can only support a fixed pre-defined set of stems. Increasing stem support in these inflexible systems correspondingly requires increasing computational complexity, rendering extensions of these systems computationally infeasible for long-tail instruments. In this work, we propose Banquet, a system that allows source separation of multiple stems using just one decoder. A bandsplit source separation model is extended to work in a query-based setup in tandem with a music instrument recognition PaSST model. On the MoisesDB dataset, Banquet, at only 24.9 M trainable parameters, approached the performance level of the significantly more complex 6-stem Hybrid Transformer Demucs on VDBO stems and outperformed it on guitar and piano. The query-based setup allows for the separation of narrow instrument classes such as clean acoustic guitars, and can be successfully applied to the extraction of less common stems such as reeds and organs.},
     publisher = {ISMIR},
     address = {San Francisco, CA, USA},
-    html = {https://ieeexplore.ieee.org/document/10447947},
+    html = {},
     pdf = {https://arxiv.org/pdf/2406.18747},
     blog = {},
     code = {https://github.com/karnwatcharasupat/query-bandit},
@@ -621,7 +643,8 @@
     dimensions = {true},
     altmetric = {true},
 google_scholar_id={hC7cP41nSMkC},
-html={https://www.sciencedirect.com/science/article/pii/S0003682X24002603}
+html={https://www.sciencedirect.com/science/article/pii/S0003682X24002603},
+abbr={Journal}
 }
 
 
