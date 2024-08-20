@@ -1673,7 +1673,7 @@ d-appendix > distill-appendix {
         this.notKey = [",", "{", "}", " ", "="];
         this.pos = 0;
         this.input = "";
-        this.entries = new Array();
+        this.entries = [];
 
         this.currentEntry = "";
 

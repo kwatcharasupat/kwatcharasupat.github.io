@@ -469,7 +469,7 @@
         this.notKey = [",", "{", "}", " ", "="];
         this.pos = 0;
         this.input = "";
-        this.entries = new Array();
+        this.entries = [];
 
         this.currentEntry = "";
 
@@ -1768,7 +1768,7 @@
                   // Detect buggy property enumeration order in older V8 versions.
 
                   // https://bugs.chromium.org/p/v8/issues/detail?id=4118
-                  var test1 = new String("abc"); // eslint-disable-line
+                  var test1 = String("abc"); // eslint-disable-line
                   test1[5] = "de";
                   if (Object.getOwnPropertyNames(test1)[0] === "5") {
                     return false;
